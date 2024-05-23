@@ -1,6 +1,6 @@
-This Python script performs geospatial analysis on traverse data. 
+This Python code carries out an analysis on traverse data. 
 
-Functionalities:
+Function:
 
 Data Parsing (dataParsing function):
 
@@ -14,10 +14,10 @@ Traverse Analysis.py :
 
 Plotting.py:
 - Contains functions for visualizing traverse data using Matplotlib.
--Generates a plot representing the traverse points and connecting lines (legs) between them.
+-Generates a plot representing the traverse points
 
-Graphical User Interface (GUI) (main.py):
-Implements a simple GUI using the Tkinter library to interact with users, allowing them to select the traverse data file and initiate analysis and visualization.
+Graphical User Interface (GUI) (main.py):     
+uses a simple GUI using the Tkinter library to interact with users, allowing them to select the traverse data file and initiate analysis and visualization.
 
 Creates a user-friendly interface for interacting with the script. This likely includes functionalities for selecting the data file and visualizing the results.
 
